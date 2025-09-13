@@ -1,6 +1,6 @@
-# React + Vite
+# GITHUB SEARCH ENGINE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight web application that allows users to search GitHub repositories and users quickly. This project provides a simple interface to interact with GitHub’s API, making it easy to find repositories, view repository details, and explore users.
 
 Currently, two official plugins are available:
 
